@@ -1,0 +1,21 @@
+{
+  "item.minecraft.potion.effect.tpotion_base": "Warp Potion",
+  "item.minecraft.splash_potion.effect.tpotion_base": "Warp Splash Potion",
+  "item.minecraft.lingering_potion.effect.tpotion_base": "Warp Lingering Potion",
+
+  "item.minecraft.potion.effect.tpotion_recall": "Recall Potion",
+  "item.minecraft.splash_potion.effect.tpotion_recall": "Recall Splash Potion",
+  "item.minecraft.lingering_potion.effect.tpotion_recall": "Recall Lingering Potion",
+
+  "item.minecraft.potion.effect.tpotion_wormhole": "Wormhole Potion",
+  "item.minecraft.splash_potion.effect.tpotion_wormhole": "Wormhole Splash Potion",
+  "item.minecraft.lingering_potion.effect.tpotion_wormhole": "Wormhole Lingering Potion",
+
+  "item.minecraft.potion.effect.tpotion_choir": "Potion of the Choir",
+  "item.minecraft.splash_potion.effect.tpotion_choir": "Splash Potion of the Choir",
+  "item.minecraft.lingering_potion.effect.tpotion_choir": "Lingering Potion of the Choir",
+
+  "effect.tpotion.recall": "Recall",
+  "effect.tpotion.wormhole": "Wormhole",
+  "effect.tpotion.choir": "Choir"
+}
