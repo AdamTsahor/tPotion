@@ -1,4 +1,5 @@
-# tPotion - A brewing-based teleportation mod for Minecraft Fabric, built for small SMP sessions.
+# tPotion
+A brewing-based teleportation mod for Minecraft Fabric, built for small SMP sessions.
 
 ## Features
 
